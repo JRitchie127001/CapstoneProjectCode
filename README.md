@@ -1,0 +1,1 @@
+Code from the completed projects from the Learning C++ and SDL2 course from https://www.studyplan.dev/sdl2
