@@ -1,0 +1,11 @@
+C:\Users\John\source\repos\SnakeClone\x64\Release\SnakeClone.vcxproj.CopyComplete
+C:\Users\John\source\repos\SnakeClone\x64\Release\SnakeClone.exe
+C:\Users\John\source\repos\SnakeClone\x64\Release\SDL2.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\SDL2_image.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\libpng16.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\zlib1.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\SDL2_ttf.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\freetype.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\bz2.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\brotlidec.dll
+C:\Users\John\source\repos\SnakeClone\x64\Release\brotlicommon.dll

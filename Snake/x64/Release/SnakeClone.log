@@ -1,0 +1,18 @@
+﻿  main.cpp
+C:\Users\John\source\repos\SnakeClone\Cell.h(54,22): warning C4244: 'argument': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(57,24): warning C4244: 'argument': conversion from 'Uint32' to 'float', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(172,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(175,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(178,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(182,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(196,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(200,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(203,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\John\source\repos\SnakeClone\Cell.h(206,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 271 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SnakeClone.vcxproj -> C:\Users\John\source\repos\SnakeClone\x64\Release\SnakeClone.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
