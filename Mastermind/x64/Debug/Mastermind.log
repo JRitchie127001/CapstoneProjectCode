@@ -1,0 +1,6 @@
+﻿  Scanning sources for module dependencies...
+  MastermindCell.cpp
+C:\Users\John\source\repos\Mastermind\MastermindCell.cpp(37,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Mastermind.vcxproj -> C:\Users\John\source\repos\Mastermind\x64\Debug\Mastermind.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

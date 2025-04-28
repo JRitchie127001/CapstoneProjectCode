@@ -1,0 +1,15 @@
+﻿  Scanning sources for module dependencies...
+  MastermindCell.h
+  Compiling...
+  MastermindCell.h
+  main.cpp
+C:\Users\John\source\repos\Mastermind\GameManager.h(77,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  MastermindCell.cpp
+C:\Users\John\source\repos\Mastermind\MastermindCell.cpp(49,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 457 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mastermind.vcxproj -> C:\Users\John\source\repos\Mastermind\x64\Release\Mastermind.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

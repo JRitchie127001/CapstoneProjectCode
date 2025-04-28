@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\MastermindCell.h.obj",
+            "outputs": [
+                "C:\\Users\\John\\source\\repos\\Mastermind\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\John\\source\\repos\\Mastermind\\x64\\Release\\MastermindCell.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "MastermindCell.h",
+                    "source-path": "c:\\users\\john\\source\\repos\\mastermind\\mastermindcell.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
